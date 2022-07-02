@@ -1,6 +1,6 @@
 ### Oie devs 👋
 
-Sou Welligton Murito, apaixonado por tecnologia, gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
+Sou Luca Garcia, apaixonado por tecnologia, gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
@@ -37,7 +37,6 @@ Sou Welligton Murito, apaixonado por tecnologia, gosto de criar ótimos software
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wMuriTTo&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
 
-[website]: https://codedev.ga/
 [twitter]: https://twitter.com/_murito
 [instagram]: https://www.instagram.com/wmurito
 [linkedin]: https://www.linkedin.com/in/wellington-murito-aba51760/
@@ -48,4 +47,3 @@ Sou Welligton Murito, apaixonado por tecnologia, gosto de criar ótimos software
 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
 📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
