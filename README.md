@@ -1,49 +1,21 @@
-### Oie devs 👋
+<h1 align="center">Olá 👋, me chamo Luca</h1>
+<h3 align="center">Sou estudante de programação front-end</h3>
 
-Sou Luca Garcia, apaixonado por tecnologia, gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=feishz45&label=Profile%20views&color=0e75b6&style=flat" alt="feishz45" /> </p>
 
+- 🌱 Eu estou aprendendo **sobre a programação Fron-End**
 
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+- 📫 Como me achat **luc.prog04@gmail.com**
 
-```python
-    def test_tarefa():
-    cliente = TestClient(app)
-    tarefa_esperada = {"titulo": "titulo", "descricao": "descricao"}
-    resposta = cliente.post("/tarefas", json=tarefa_esperada)
-    tarefa_criada = resposta.json()
-    assert tarefa_criada["titulo"] == tarefa_esperada["titulo"]
-    assert tarefa_criada["descricao"] == tarefa_esperada["descricao"]
-    TAREFAS.clear()
-  
-```
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/luc_fs04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luc_fs04" height="30" width="40" /></a>
+</p>
 
-## **Linguagens e Ferramentas:**  
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> </p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=feishz45&show_icons=true&locale=en" alt="feishz45" /></p>
 
-## **GitHub Estatísticas**
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=feishz45&" alt="feishz45" /></p>
 
-<a href="https://github.com/wmurito">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wMuriTTo&theme=dracula&hide_langs_below=1" />
-</a>
-
-<a href="https://github.com/wmurito">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=wMuriTTo&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
-</a>
-
-[twitter]: https://twitter.com/_murito
-[instagram]: https://www.instagram.com/wmurito
-[linkedin]: https://www.linkedin.com/in/wellington-murito-aba51760/
-<br>
-
-#### Rede Sociais!
-
-🏡 [website][website] **|** 
-🐦 [twitter][twitter] **|** 
-📷 [instagram][instagram] **|** 
